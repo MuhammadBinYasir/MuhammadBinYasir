@@ -10,6 +10,8 @@ Welcome to my Next.js Portfolio! This project serves as a showcase of my skills 
 - **InfoGenius: Your Smart Info Companion** - NextJS (Routing), Gemini API
 - **Github Profile Viewer** - NextJs (Routing, Parallel Routing), Github API, Tailwind CSS
 
+_(And Many More)_
+
 ### 💡 Experiences
 **𝓝𝓸 𝓢𝓾𝓬𝓱 𝓔𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 𝓨𝓮𝓽 ✨**
 
