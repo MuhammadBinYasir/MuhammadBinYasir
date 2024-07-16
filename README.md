@@ -3,7 +3,7 @@ Welcome to my Next.js Portfolio! This project serves as a showcase of my skills 
 
 ### 🎓 Education
 - Intermediate | Punjab Group of Colleges, Multan *(2024-26)*
-- 94% | Matric | Zamir Public School, Multan *(2022-24)*
+- 96% | Matric | Zamir Public School, Multan *(2022-24)*
 
 ### 💼 Projects
 - **Gemini Clone** - NextJs, Gemini API
